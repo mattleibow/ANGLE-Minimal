@@ -7,9 +7,9 @@ using GLboolean = System.Byte;
 using GLenum = System.UInt32;
 using GLfloat = System.Single;
 using GLint = System.Int32;
-using GLintptr = System.Int64;
+using GLintptr = System.Int32;
 using GLsizei = System.Int32;
-using GLsizeiptr = System.Int64;
+using GLsizeiptr = System.Int32;
 using GLuint = System.UInt32;
 
 namespace ManagedANGLE
